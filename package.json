@@ -2,10 +2,10 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/app.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "npx nodemon ./src/app.js"
+    "start": "npx nodemon index.js"
   },
   "keywords": [],
   "author": "",
